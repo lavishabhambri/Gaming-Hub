@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mathisfun</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Heading -->
+    <div id="ui">
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MMATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MMATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+        <div class="text">MATHISFUN</div>
+    </div>
+
+    <!-- MCQs -->
+    <div class="container">
+        <figure id="question-container">
+            <div id="question-img"></div>
+            <figcaption class="question-area" id="question"></figcaption>
+            <div id="popups">
+                    <div id="rightAns" class="no-show">Correct!</div>
+                    <div id="wrongAns" class="no-show">Try Again!</div>
+                </div>
+        </figure>
+        <section class="options" id="options">
+            <figure class="option" id="option1"></figure>
+            <figure class="option" id="option2"></figure>
+            <figure class="option" id="option3"></figure>
+            <figure class="option" id="option4"></figure>
+        </section>
+    </div>
+
+    <!-- Score -->
+    <div id="score" class="score no-show">
+        <div id="circle-score" class="circle-score">
+            <span id="score-value">0</span>
+        </div>
+    </div>
+
+    <!-- Countdown -->
+    <div id="timer" class="timer no-show">
+        <div id="circle-timer" class="circle-timer">
+            <div class="timer-slot">
+                <div id="timer-lt" class="timer-lt"> </div>
+            </div>
+            <div class="timer-slot">
+                <div id="timer-rt" class="timer-rt"></div>
+            </div>
+            <div id="count" class="count"></div>
+        </div>
+        <button class="button" id="pause"></button>
+    </div>
+
+    <!-- Start Game -->
+    <div class="option" id="start">Start</div>
+    <!-- <div id="levels">
+        <button class="start">Easy</button>
+        <button class="start">Difficult</button>
+    </div> -->
+  
+    <!-- Pause Game -->
+    <div id="pausedMsg" class="no-show">
+        <p>Paused!</p>
+    </div>
+
+    <!-- End Game -->
+    <div id="gameOver" class="no-show">
+        <div class="container">
+            <img src="./images/gameOver.gif">
+            <div class="content">
+                <p>Time's Up!</p>
+                <p>Score: <span id="finalScore"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="javascript.js"></script>
+    <noscript>Your broswer does not support JavaScript!</noscript>
+
+</body>
+</html>
