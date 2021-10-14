@@ -1,5 +1,5 @@
 # GAMING HUB :game_die:
-Play cool & fun retro online games at **The Gaming Hub**! The Gaming Zone provides you with a collection of classic retro games, including **puzzle games, trivia games, maths games, colour games** and much more... ENJOY!
+Play cool & fun retro online games at **The Gaming Hub**! The Gaming Hub provides you with a collection of classic retro games, including **puzzle games, trivia games, maths games, colour games** and much more... ENJOY!
 
 
 ## DEMO LINK :link:
