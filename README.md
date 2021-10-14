@@ -13,13 +13,13 @@ Visit the link: **https://lavishabhambri.github.io/Gaming-Hub/**
 | **MATHISFUN (By Shruti Sharma)** | A trivia game, kids can enjoy playing **MathIsFun** along with honing their mathematics skills by answering simple algebra questions in a specified time frame. | ![mathisfun](/assets/img/img_2.PNG) | [https://mathisfunn.netlify.app/](https://mathisfunn.netlify.app/) |
 | **Rock Paper Scissors (By Krishna Priya Markapuram)** | **Rock Paper Scissors** is a single-player sliding block puzzle game. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. One can even continue to play the game after reaching the goal. | ![rockPaperScissors](/assets/img/game.jpeg) | [https://we-rock-paper-scissorss-game.netlify.app/](https://we-rock-paper-scissorss-game.netlify.app/) |
 | **2048 (By Krishna Priya Markapuram)** | **2048** is a single-player sliding block puzzle game. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. One can even continue to play the game after reaching the goal. | ![2048](/assets/img/2048.jpg) | [https://we-game-2048.netlify.app/](https://we-game-2048.netlify.app/) |
-| **MINESWEEPER (By Ashpreet)** | A single-player puzzle game, **Minesweeper** has the objective of clearing a rectangular board containing hidden "mines" (bombs) without detonating any of them. | ![minesweeper](/assets/img/minesweeper.jpeg) | [https://game-minesweeper.netlify.app/](https://game-minesweeper.netlify.app/) |
-| **COLOR GAME (By Ashpreet)** | **RGB Color Game** is where you can test your color sense and guessing skills by attempting to choose the option which matches correctly with its given RGB value. | ![colorGame](/assets/img/colorgame.jpeg) | [https://color-test-game.netlify.app/](https://color-test-game.netlify.app/) |
+| **MINESWEEPER (By Ashpreet Kaur)** | A single-player puzzle game, **Minesweeper** has the objective of clearing a rectangular board containing hidden "mines" (bombs) without detonating any of them. | ![minesweeper](/assets/img/minesweeper.jpeg) | [https://game-minesweeper.netlify.app/](https://game-minesweeper.netlify.app/) |
+| **COLOR GAME (By Ashpreet Kaur)** | **RGB Color Game** is where you can test your color sense and guessing skills by attempting to choose the option which matches correctly with its given RGB value. | ![colorGame](/assets/img/colorgame.jpeg) | [https://color-test-game.netlify.app/](https://color-test-game.netlify.app/) |
 
 ## TECHNOLOGIES USED :speech_balloon:
-- **HTML5**: current major version of HTML that subsumes XHTML
-- **CSS3**: latest evolution of the Cascading Style Sheets language 
-- **VANILLA JS**: plain JavaScript without any additional libraries like jQuery
+- **HTML5**
+- **CSS3**
+- **VANILLA JS**
 - **BOOTSTRAP**
 - **MERNSTACK**
 
