@@ -653,5 +653,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   padding: 0;
 }
 
+.pokemon {
+  width: 416px;
+  height: 421px;
+}
 
 
