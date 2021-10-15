@@ -18,7 +18,7 @@ To start playing:
 
 
 ## GAME SNAPSHOT :camera:
-![MathIsFun](/MathIsFun.PNG)
+![MathIsFun](/images/MathIsFun.PNG)
 
 
 ## CONTRIBUTE :shipit:
